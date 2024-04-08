@@ -32,28 +32,28 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: 'NotionMpClipper的主要特性', // 特性
-  STARTER_FEATURE_TEXT_2: 'NotionMpClipper的愿景是帮助您优雅地处理移动端 Notion 剪藏困境。 ', // 特性
+  STARTER_FEATURE_TEXT_1: 'NotionMpClipper主要特性', // 特性
+  STARTER_FEATURE_TEXT_2: '我们的愿景是帮助您更好地处理Notion移动端剪藏困境。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '主流平台内容剪藏', // 特性1
   STARTER_FEATURE_1_TEXT_1: '支持微信文章，小红书笔记，知乎内容，即刻动态，下厨房菜谱等', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: 'GTD快捷收纳', // 特性2
   STARTER_FEATURE_2_TEXT_1: '通过企微助手可以实现手机端文字、图片、链接内容快捷记录到Notion', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
-  STARTER_FEATURE_2_BUTTON_URL: 'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+  STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
+  STARTER_FEATURE_2_BUTTON_URL: '', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '深度还原的剪藏体验', // 特性3
   STARTER_FEATURE_3_TEXT_1: '深度适配的文章格式，可能是 Notion 目前更好的移动端剪藏方案', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '纯净无广告', // 特性4
   STARTER_FEATURE_4_TEXT_1: '只为提供更加简洁友好的剪藏交互体验', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: '', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: false, // ABOUT区块开关
@@ -105,7 +105,7 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
   STARTER_TESTIMONIALS_TITLE: '用户反馈',
   STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
-  STARTER_TESTIMONIALS_TEXT_2: '数千位站长选择用NotionNext搭建他们的网站,通过帮助手册、交流社群以及技术咨询，大家成功上线了自己的网站',
+  STARTER_TESTIMONIALS_TEXT_2: '数千位用户选择用NotionMpClipper作为他们的移动端Notion剪藏方案',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
@@ -155,7 +155,7 @@ const CONFIG = {
   ],
 
   //   FAQ 常见问题模块
-  STARTER_FAQ_ENABLE: true, // 常见问题模块开关
+  STARTER_FAQ_ENABLE: false, // 常见问题模块开关
   STARTER_FAQ_TITLE: '常见问题解答',
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
@@ -173,7 +173,7 @@ const CONFIG = {
   STARTER_FAQ_4_ANSWER: '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
 
   // 团队成员区块
-  STARTER_TEAM_ENABLE: true, // 团队成员区块开关
+  STARTER_TEAM_ENABLE: false, // 团队成员区块开关
   STARTER_TEAM_TITLE: '团队成员',
   STARTER_TEAM_TEXT_1: '我们的开发者团队',
   STARTER_TEAM_TEXT_2: 'NotionNext 由众多开源技术爱好者们共同合作完成，感谢每一位<a className="underline" href="https://github.com/tangly1024/NotionNext/graphs/contributors">贡献者</a>',
@@ -181,24 +181,9 @@ const CONFIG = {
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TEAM_ITEMS: [
     {
-      STARTER_TEAM_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
-      STARTER_TEAM_ITEM_NICKNAME: 'Tangly',
+      STARTER_TEAM_ITEM_AVATAR: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2Fdb05eca9-c381-43bb-896d-a7ecb4fb49a4%2Favatar.png?table=space&id=e6754918-4032-4d49-aa67-f3decf770c1b&spaceId=e6754918-4032-4d49-aa67-f3decf770c1b&width=110&userId=f669f00f-9a3b-4ac3-aa68-b0b13e912d4e&cache=v2',
+      STARTER_TEAM_ITEM_NICKNAME: '麦可',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
-    },
-    {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
-    },
-    {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Stuard Ferrel',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
-    },
-    {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Eva Hudson',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
     }
   ],
 
@@ -230,7 +215,7 @@ const CONFIG = {
   //   STARTER_CONTACT_MSG_THANKS: '感谢您的留言',
 
   // 合作伙伴的图标
-  STARTER_BRANDS_ENABLE: true, // 合作伙伴开关
+  STARTER_BRANDS_ENABLE: false, // 合作伙伴开关
   STARTER_BRANDS: [
     {
       IMAGE: '/images/starter/brands/graygrids.svg',
