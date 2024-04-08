@@ -12,7 +12,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'NotionMpClipper', // 英雄区文字
-  STARTER_HERO_TITLE_2: '极力推荐的移动端的Notion剪藏插件', // 英雄区文字
+  STARTER_HERO_TITLE_2: '极力推荐的Notion移动端剪藏插件', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
@@ -31,27 +31,27 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '特性', // 特性
+  STARTER_FEATURE_TITLE: '', // 特性
   STARTER_FEATURE_TEXT_1: 'NotionMpClipper主要特性', // 特性
   STARTER_FEATURE_TEXT_2: '我们的愿景是帮助您更好地处理Notion移动端剪藏困境。 ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '主流平台内容剪藏', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '支持微信文章，小红书笔记，知乎内容，即刻动态，下厨房菜谱等', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '主流平台文章剪藏', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '微信文章、小红书笔记、知乎专栏问答、即刻动态、下厨房菜谱等', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: 'GTD快捷收纳', // 特性2
+  STARTER_FEATURE_2_TITLE_1: 'Notion GTD快捷收纳', // 特性2
   STARTER_FEATURE_2_TEXT_1: '通过企微助手可以实现手机端文字、图片、链接内容快捷记录到Notion', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
   STARTER_FEATURE_2_BUTTON_URL: '', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '深度还原的剪藏体验', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '深度适配的文章格式，可能是 Notion 目前更好的移动端剪藏方案', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '深度适配的剪藏体验', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '深度适配的文章格式，为你提供目前更好用的Notion移动端剪藏方案', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '纯净无广告', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '只为提供更加简洁友好的剪藏交互体验', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '简单高效零广告', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '一键实现快捷剪藏，只为提供更加简洁友好的剪藏交互体验', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: '', // 特性4
 
@@ -249,7 +249,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '这款插件希望对你有用。',
+  STARTER_FOOTER_SLOGAN: '希望这款插件对你有用。',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
@@ -257,25 +257,17 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
-        { TITLE: '帮助支持', URL: 'https://docs.tangly1024.com/article/how-to-question' },
-        { TITLE: '合作申请', URL: 'https://docs.tangly1024.com/article/my-service' }
+        { TITLE: '操作文档', URL: 'https://630go.top/about' },
+        { TITLE: '帮助支持', URL: 'https://630go.top/article/how-to-question' },
+        { TITLE: '合作申请', URL: 'https://630go.top/article/my-service' }
       ]
     },
     {
       TITLE: '功能特性',
       LINK_GROUP: [
-        { TITLE: '部署指南', URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next' },
-        { TITLE: '升级指南', URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext' },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
-      ]
-    },
-    {
-      TITLE: 'Notion写作',
-      LINK_GROUP: [
-        { TITLE: 'Notion开始写作', URL: 'https://docs.tangly1024.com/article/start-to-write' },
-        { TITLE: '快捷键提升效率', URL: 'https://docs.tangly1024.com/article/notion-short-key' },
-        { TITLE: '中国大陆使用Notion', URL: 'https://docs.tangly1024.com/article/notion-faster' }
+        { TITLE: '授权流程', URL: 'https://630go.top/article/how-to-auth' },
+        { TITLE: '剪藏指南', URL: 'https://630go.top/article/how-to-use-clipper' },
+        { TITLE: 'GTD收纳', URL: 'https://630go.top/article/how-to-use-gtd' }
       ]
     }
   ],
