@@ -122,35 +122,35 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_AVATAR: '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://source.unsplash.com/random/280x280'
+      STARTER_TESTIMONIALS_ITEM_URL: '/images/starter/hero/user_avatar.png'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '用过的最好用的微信剪藏程序！',
       STARTER_TESTIMONIALS_ITEM_AVATAR: '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://source.unsplash.com/random/280x280'
+      STARTER_TESTIMONIALS_ITEM_URL: '/images/starter/hero/user_avatar.png'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: 'Notion 微信剪藏中，只有这个是最好的，问题解答也及时，功能做的也好，yyds',
       STARTER_TESTIMONIALS_ITEM_AVATAR: '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://source.unsplash.com/random/280x280'
+      STARTER_TESTIMONIALS_ITEM_URL: '/images/starter/hero/user_avatar.png'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '很好用的剪藏工具，极大扩展了 Notion 的使用边界，感谢',
       STARTER_TESTIMONIALS_ITEM_AVATAR: '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '东林',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://source.unsplash.com/random/280x280'
+      STARTER_TESTIMONIALS_ITEM_URL: '/images/starter/hero/user_avatar.png'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '太好用了，今天一搜发现了新大陆，感谢开发，支持！',
       STARTER_TESTIMONIALS_ITEM_AVATAR: '',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '小马',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://source.unsplash.com/random/280x280'
+      STARTER_TESTIMONIALS_ITEM_URL: '/images/starter/hero/user_avatar.png'
     }
   ],
 
