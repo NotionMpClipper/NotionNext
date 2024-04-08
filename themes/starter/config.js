@@ -12,7 +12,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'NotionMpClipper', // 英雄区文字
-  STARTER_HERO_TITLE_2: '极力推荐的Notion移动端剪藏插件', // 英雄区文字
+  STARTER_HERO_TITLE_2: '众多知识工作者极力推荐的Notion移动端剪藏插件', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL: 'https://630go.top/article/start', // 英雄区按钮
@@ -103,7 +103,7 @@ const CONFIG = {
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
-  STARTER_TESTIMONIALS_TITLE: '用户反馈',
+  STARTER_TESTIMONIALS_TITLE: '',
   STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
   STARTER_TESTIMONIALS_TEXT_2: '数千位用户选择用NotionMpClipper作为他们的移动端Notion剪藏方案',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
@@ -261,15 +261,16 @@ const CONFIG = {
         { TITLE: '帮助支持', URL: 'https://630go.top/article/how-to-question' },
         { TITLE: '合作申请', URL: 'https://630go.top/article/my-service' }
       ]
-    },
-    {
-      TITLE: '功能特性',
-      LINK_GROUP: [
-        { TITLE: '授权流程', URL: 'https://630go.top/article/how-to-auth' },
-        { TITLE: '剪藏指南', URL: 'https://630go.top/article/how-to-use-clipper' },
-        { TITLE: 'GTD收纳', URL: 'https://630go.top/article/how-to-use-gtd' }
-      ]
     }
+    // ,
+    // {
+    //   TITLE: '功能特性',
+    //   LINK_GROUP: [
+    //     { TITLE: '授权流程', URL: 'https://630go.top/article/how-to-auth' },
+    //     { TITLE: '剪藏指南', URL: 'https://630go.top/article/how-to-use-clipper' },
+    //     { TITLE: 'GTD收纳', URL: 'https://630go.top/article/how-to-use-gtd' }
+    //   ]
+    // }
   ],
 
   STARTER_FOOTER_BLOG_LATEST_TITLE: '最新文章',
