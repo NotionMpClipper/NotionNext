@@ -141,7 +141,7 @@ const CONFIG = {
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '很好用的剪藏工具，极大扩展了 Notion 的使用边界，感谢',
       STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://avatars.githubusercontent.com/u/166299585?v=4',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名用户',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
       STARTER_TESTIMONIALS_ITEM_URL: ''
     },
