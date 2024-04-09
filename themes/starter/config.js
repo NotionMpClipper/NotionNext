@@ -112,45 +112,45 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '超级好用的工具，平时收藏素材、文案场景使用，提取方便快捷，感谢开发者的用心。希望多点这样的工具',
-      STARTER_TESTIMONIALS_ITEM_AVATAR: '',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
+      STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://avatars.githubusercontent.com/u/166299585?v=4',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名用户',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://avatars.githubusercontent.com/u/166299585?v=4'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '适配性真的很高！我在其他工具上遇到的，微信剪藏格式报错，放在这个上都 OK 了',
-      STARTER_TESTIMONIALS_ITEM_AVATAR: '',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
+      STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://avatars.githubusercontent.com/u/166299585?v=4',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名用户',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://avatars.githubusercontent.com/u/166299585?v=4'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '用过的最好用的微信剪藏程序！',
-      STARTER_TESTIMONIALS_ITEM_AVATAR: '',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
+      STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://avatars.githubusercontent.com/u/166299585?v=4',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名用户',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://avatars.githubusercontent.com/u/166299585?v=4'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: 'Notion 微信剪藏中，只有这个是最好的，问题解答也及时，功能做的也好，yyds',
-      STARTER_TESTIMONIALS_ITEM_AVATAR: '',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
+      STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://avatars.githubusercontent.com/u/166299585?v=4',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名用户',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://avatars.githubusercontent.com/u/166299585?v=4'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '很好用的剪藏工具，极大扩展了 Notion 的使用边界，感谢',
-      STARTER_TESTIMONIALS_ITEM_AVATAR: '',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '东林',
+      STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://avatars.githubusercontent.com/u/166299585?v=4',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://avatars.githubusercontent.com/u/166299585?v=4'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '太好用了，今天一搜发现了新大陆，感谢开发，支持！',
-      STARTER_TESTIMONIALS_ITEM_AVATAR: '',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '小马',
+      STARTER_TESTIMONIALS_ITEM_AVATAR: 'https://avatars.githubusercontent.com/u/166299585?v=4',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名用户',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://avatars.githubusercontent.com/u/166299585?v=4'
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     }
   ],
 
