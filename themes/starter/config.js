@@ -36,7 +36,7 @@ const CONFIG = {
   STARTER_FEATURE_TEXT_2: '我们的愿景是帮助您更好地处理Notion移动端剪藏困境。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '主流平台文章剪藏', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '微信文章、小红书笔记、知乎专栏问答、即刻动态、下厨房菜谱等', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '微信文章、小红书笔记、知乎、少数派、即刻、下厨房等等', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
 
@@ -51,7 +51,7 @@ const CONFIG = {
   STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '简单高效零广告', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '一键实现快捷剪藏，只为提供更加简洁友好的剪藏交互体验', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '一键实现快捷剪藏，更加简洁友好的剪藏交互体验', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: '', // 特性4
 
