@@ -130,12 +130,12 @@ export const Footer = (props) => {
                 <p className="text-base text-gray-7">
                   浙ICP备2022022074号-2
                   <a
-                    href="https://github.com/tangly1024/NotionNext"
+                    href="https://630go.top"
                     rel="nofollow noopner noreferrer"
                     target="_blank"
                     className="px-1 text-gray-1 hover:underline"
                   >
-                    NotionMpClipper
+                      NotionMpClipper
                   </a>
                 </p>
               </div>
