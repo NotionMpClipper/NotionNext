@@ -215,7 +215,7 @@ const CONFIG = {
   //   STARTER_CONTACT_MSG_THANKS: '感谢您的留言',
 
   // 合作伙伴的图标
-  STARTER_BRANDS_ENABLE: true, // 合作伙伴开关
+  STARTER_BRANDS_ENABLE: false, // 合作伙伴开关
   STARTER_BRANDS: [
     {
       IMAGE: '/images/starter/brands/graygrids.svg',
@@ -254,12 +254,10 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: '关于我们',
+      TITLE: '友情链接',
       LINK_GROUP: [
-        { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://630go.top/about' },
-        { TITLE: '帮助支持', URL: 'https://630go.top/article/how-to-question' },
-        { TITLE: '合作申请', URL: 'https://630go.top/article/my-service' }
+        { TITLE: '组件世界', URL: 'https://cn.widgetstore.net/#/home' },
+        { TITLE: '神器集', URL: 'https://hao.logosc.cn' }
       ]
     }
     // ,
