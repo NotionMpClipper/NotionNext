@@ -257,7 +257,8 @@ const CONFIG = {
       TITLE: '友情链接',
       LINK_GROUP: [
         { TITLE: '组件世界', URL: 'https://cn.widgetstore.net/#/home' },
-        { TITLE: '神器集', URL: 'https://hao.logosc.cn' }
+        { TITLE: '神器集', URL: 'https://hao.logosc.cn' },
+        { TITLE: 'AI品牌设计', URL: 'https://www.ubrand.com' }
       ]
     }
     // ,
